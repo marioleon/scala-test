@@ -1,0 +1,29 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+**/out/
+*.log
+.idea_modules/
+**/target/
+**/logs/
+
+# Maven
+.flattened-pom.xml
+.classpath
+.project
+*.prefs
+*.backup
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore gradle build & cache
+build/
+.cache/
+bin/
+
+# macos
+.DS_Store
+
+generated/
